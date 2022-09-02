@@ -4,8 +4,8 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/zVapor\_" target="_blank">
-    <img alt="Twitter: zVapor\_" src="https://img.shields.io/twitter/follow/zVapor\_.svg?style=social" />
+  <a href="https://twitter.com/zVapor_" target="_blank">
+    <img alt="Twitter: zVapor_" src="https://img.shields.io/twitter/follow/zVapor\_.svg?style=social" />
   </a>
 </p>
 
@@ -29,8 +29,8 @@ yarn run start
 
 👤 **zVapor_**
 
-* Website: zvapor.xyz
-* Twitter: [@zVapor\_](https://twitter.com/zVapor\_)
+* Website: [zvapor.xyz](https://zvapor.xyz)
+* Twitter: [@zVapor\_](https://twitter.com/zVapor_)
 * Github: [@zVapor-Dev](https://github.com/zVapor-Dev)
 
 ## 🤝 Contributing
@@ -42,4 +42,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
